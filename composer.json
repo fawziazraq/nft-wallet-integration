@@ -1,0 +1,20 @@
+{
+    "name": "fawzi/nft-wallet-integration",
+    "description": "This package for Nft wallet integration",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fawzi\\NftWalletIntegration\\": "src/"
+
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Fawzi Al-azraq"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
